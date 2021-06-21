@@ -1,0 +1,12 @@
+./client localhost 13075 output20p5.cgi &
+sleep 1
+./client localhost 13075 output20p5.cgi &
+sleep 1
+./client localhost 13075 output20p5.cgi &
+sleep 1
+./client localhost 13075 output20p5.cgi &
+sleep 1
+./client localhost 13075 output20p5.cgi &
+sleep 1
+./client localhost 13075 output20p5.cgi
+sleep 22

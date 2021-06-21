@@ -1,0 +1,24 @@
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi &
+sleep 1
+./client localhost 13992 output20p5.cgi
+sleep 22

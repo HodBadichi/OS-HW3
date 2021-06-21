@@ -1,0 +1,73 @@
+Line N.1 executing ./client localhost 18286 home.html &
+Line N.2 executing sleep 1
+Line N.3 executing ./client localhost 18286 output10p5.cgi &
+Line N.4 executing sleep 1
+Line N.5 executing ./client localhost 18286 output10p5.cgi
+Header: Stat-Req-Arrival:: 1623955597.450368
+Header: Stat-Req-Dispatch:: 0.000450
+Header: Stat-Thread-Id:: 1
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 0
+Header: Stat-Thread-Dynamic:: 1
+Header: Stat-Req-Arrival:: 1623955598.473437
+Header: Stat-Req-Dispatch:: 0.000727
+Header: Stat-Thread-Id:: 3
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 0
+Header: Stat-Thread-Dynamic:: 1
+Line N.6 executing sleep 1
+Line N.7 executing ./client localhost 18286 home.html &
+Line N.8 executing sleep 1
+Header: Stat-Req-Arrival:: 1623955610.012339
+Header: Stat-Req-Dispatch:: 0.000037
+Header: Stat-Thread-Id:: 0
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 1
+Header: Stat-Thread-Dynamic:: 0
+Line N.9 executing ./client localhost 18286 home.html &
+Line N.10 executing sleep 1
+Header: Stat-Req-Arrival:: 1623955611.028780
+Header: Stat-Req-Dispatch:: 0.000048
+Header: Stat-Thread-Id:: 2
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 1
+Header: Stat-Thread-Dynamic:: 0
+Line N.11 executing ./client localhost 18286 home.html
+Header: Stat-Req-Arrival:: 1623955612.047817
+Header: Stat-Req-Dispatch:: 0.000041
+Header: Stat-Thread-Id:: 5
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 1
+Header: Stat-Thread-Dynamic:: 0
+Line N.12 executing sleep 1
+Line N.13 executing ./client localhost 18286 output10p5.cgi &
+Line N.14 executing sleep 1
+Line N.15 executing ./client localhost 18286 output10p5.cgi &
+Line N.16 executing sleep 1
+Line N.17 executing ./client localhost 18286 output10p5.cgi &
+Line N.18 executing sleep 1
+Line N.19 executing ./client localhost 18286 home.html &
+Line N.20 executing sleep 1
+Line N.21 executing ./client localhost 18286 home.html &
+Line N.22 executing sleep 1
+Line N.23 executing ./client localhost 18286 home.html
+Line N.24 executing sleep 1
+Line N.25 executing ./client localhost 18286 output10p5.cgi &
+Line N.26 executing sleep 1
+Line N.27 executing ./client localhost 18286 home.html
+Line N.28 executing sleep 1
+Line N.29 executing ./client localhost 18286 output10p5.cgi &
+Line N.30 executing sleep 1
+Line N.31 executing sleep 10
+Header: Stat-Req-Arrival:: 1623955613.074653
+Header: Stat-Req-Dispatch:: 0.000245
+Header: Stat-Thread-Id:: 4
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 0
+Header: Stat-Thread-Dynamic:: 1
+Header: Stat-Req-Arrival:: 1623955614.098460
+Header: Stat-Req-Dispatch:: 0.000098
+Header: Stat-Thread-Id:: 6
+Header: Stat-Thread-Count:: 1
+Header: Stat-Thread-Static:: 0
+Header: Stat-Thread-Dynamic:: 1

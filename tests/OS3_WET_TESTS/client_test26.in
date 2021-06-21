@@ -1,0 +1,47 @@
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 output10p5.cgi
+sleep 1
+./client localhost 12618 home.html
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 output10p5.cgi
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 output10p5.cgi
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 home.html
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 output10p5.cgi &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 home.html &
+sleep 1
+./client localhost 12618 home.html
+sleep 1
+sleep 10

@@ -1,0 +1,37 @@
+./client localhost 14730 home.html &
+sleep 1
+./client localhost 14730 home.html
+sleep 1
+./client localhost 14730 output10p5.cgi &
+sleep 1
+./client localhost 14730 output10p5.cgi
+sleep 1
+./client localhost 14730 home.html &
+sleep 1
+./client localhost 14730 home.html
+sleep 1
+./client localhost 14730 home.html
+sleep 1
+./client localhost 14730 home.html
+sleep 1
+./client localhost 14730 home.html
+sleep 1
+./client localhost 14730 output10p5.cgi &
+sleep 1
+./client localhost 14730 output10p5.cgi
+sleep 1
+./client localhost 14730 output10p5.cgi
+sleep 1
+./client localhost 14730 output10p5.cgi &
+sleep 1
+./client localhost 14730 home.html &
+sleep 1
+./client localhost 14730 output10p5.cgi
+sleep 1
+./client localhost 14730 output10p5.cgi &
+sleep 1
+./client localhost 14730 output10p5.cgi
+sleep 1
+./client localhost 14730 output10p5.cgi &
+sleep 1
+sleep 10

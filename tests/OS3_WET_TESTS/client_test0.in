@@ -1,0 +1,61 @@
+./client localhost 8008 home.html POST
+sleep 1
+./client localhost 8008 home.html POST
+sleep 1
+./client localhost 8008 home.html POST
+sleep 1
+./client localhost 8008 home.html POST
+sleep 1
+./client localhost 8008 home.html POST
+sleep 1
+./client localhost 8008 output5.cgi POST
+sleep 1
+./client localhost 8008 output5.cgi POST
+sleep 1
+./client localhost 8008 output5.cgi POST
+sleep 1
+./client localhost 8008 nonexistent.html GET
+sleep 1
+./client localhost 8008 nonexistent.html GET
+sleep 1
+./client localhost 8008 nonexistent.html GET
+sleep 1
+./client localhost 8008 nonexistent.html GET
+sleep 1
+./client localhost 8008 nonexistent.html GET
+sleep 1
+./client localhost 8008 home_forbidden.html GET
+sleep 1
+./client localhost 8008 home_forbidden.html GET
+sleep 1
+./client localhost 8008 home_forbidden.html GET
+sleep 1
+./client localhost 8008 home_forbidden.html GET
+sleep 1
+./client localhost 8008 home_forbidden.html GET
+sleep 1
+./client localhost 8008 home.html GET
+sleep 1
+./client localhost 8008 home.html GET
+sleep 1
+./client localhost 8008 home.html GET
+sleep 1
+./client localhost 8008 output.cgi GET
+sleep 1
+./client localhost 8008 output.cgi GET
+sleep 1
+./client localhost 8008 output.cgi GET
+sleep 1
+./client localhost 8008 output.cgi GET
+sleep 1
+./client localhost 8008 output_forbidden.cgi GET
+sleep 1
+./client localhost 8008 output_forbidden.cgi GET
+sleep 1
+./client localhost 8008 output_forbidden.cgi GET
+sleep 1
+./client localhost 8008 output_forbidden.cgi GET
+sleep 1
+./client localhost 8008 output_forbidden.cgi GET
+sleep 1
+sleep 10

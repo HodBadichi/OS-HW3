@@ -1,0 +1,45 @@
+./client localhost 8795 output10p5.cgi
+sleep 1
+./client localhost 8795 home.html
+sleep 1
+./client localhost 8795 2home.html &
+sleep 1
+./client localhost 8795 2output10p5.cgi &
+sleep 1
+./client localhost 8795 3home.html &
+sleep 1
+./client localhost 8795 3output10p5.cgi
+sleep 1
+./client localhost 8795 2output10p5.cgi &
+sleep 1
+./client localhost 8795 3home.html &
+sleep 1
+./client localhost 8795 3output10p5.cgi
+sleep 1
+./client localhost 8795 4output10p5.cgi &
+sleep 1
+./client localhost 8795 5output10p5.cgi
+sleep 1
+./client localhost 8795 4home.html
+sleep 1
+./client localhost 8795 6output10p5.cgi &
+sleep 1
+./client localhost 8795 7output10p5.cgi &
+sleep 1
+./client localhost 8795 8output10p5.cgi &
+sleep 1
+./client localhost 8795 5home.html &
+sleep 1
+./client localhost 8795 9output10p5.cgi &
+sleep 1
+./client localhost 8795 10output10p5.cgi &
+sleep 1
+./client localhost 8795 11output10p5.cgi &
+sleep 1
+./client localhost 8795 12output10p5.cgi &
+sleep 1
+./client localhost 8795 13output10p5.cgi &
+sleep 1
+./client localhost 8795 6home.html
+sleep 1
+sleep 10

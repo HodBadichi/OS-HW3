@@ -1,0 +1,8 @@
+./client localhost 17189 output20p5.cgi &
+sleep 1
+./client localhost 17189 output20p5.cgi &
+sleep 1
+./client localhost 17189 output20p5.cgi &
+sleep 1
+./client localhost 17189 output20p5.cgi
+sleep 22

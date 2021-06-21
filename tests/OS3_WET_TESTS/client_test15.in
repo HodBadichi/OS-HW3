@@ -1,0 +1,19 @@
+./client localhost 17459 output10p5.cgi &
+sleep 1
+./client localhost 17459 output10p5.cgi
+sleep 1
+./client localhost 17459 output10p5.cgi &
+sleep 1
+./client localhost 17459 home.html &
+sleep 1
+./client localhost 17459 home.html
+sleep 1
+./client localhost 17459 output10p5.cgi &
+sleep 1
+./client localhost 17459 output10p5.cgi
+sleep 1
+./client localhost 17459 home.html &
+sleep 1
+./client localhost 17459 home.html &
+sleep 1
+sleep 10

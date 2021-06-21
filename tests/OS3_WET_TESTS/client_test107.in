@@ -1,0 +1,29 @@
+./client localhost 18747 output10p5.cgi &
+sleep 1
+./client localhost 18747 home.html &
+sleep 1
+./client localhost 18747 home.html
+sleep 1
+./client localhost 18747 output10p5.cgi
+sleep 1
+./client localhost 18747 home.html
+sleep 1
+./client localhost 18747 home.html
+sleep 1
+./client localhost 18747 home.html &
+sleep 1
+./client localhost 18747 output10p5.cgi
+sleep 1
+./client localhost 18747 output10p5.cgi &
+sleep 1
+./client localhost 18747 output10p5.cgi &
+sleep 1
+./client localhost 18747 home.html
+sleep 1
+./client localhost 18747 output10p5.cgi &
+sleep 1
+./client localhost 18747 output10p5.cgi
+sleep 1
+./client localhost 18747 home.html
+sleep 1
+sleep 10
